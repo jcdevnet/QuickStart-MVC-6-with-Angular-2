@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{808D5599-1A1C-477E-80F0-4F40F3845F60}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Mvc6Angular2QuickStart", "src\Mvc6Angular2QuickStart\Mvc6Angular2QuickStart.xproj", "{36A7B076-9704-4ABE-A0E2-3FC1F6B9FFF5}"
