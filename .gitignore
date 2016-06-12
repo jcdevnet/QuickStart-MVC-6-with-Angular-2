@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/src/Mvc6Angular2QuickStart/wwwroot/$scripts
